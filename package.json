@@ -1,0 +1,24 @@
+{
+  "name": "crypjs",
+  "version": "1.0.0",
+  "description": "simple aes-256-cbc encryption and decryption",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcwteam/crypjs.git"
+  },
+  "keywords": [
+    "encryption",
+    "aes",
+    "simple"
+  ],
+  "author": "TCWTEAM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcwteam/crypjs/issues"
+  },
+  "homepage": "https://github.com/tcwteam/crypjs#readme"
+}
